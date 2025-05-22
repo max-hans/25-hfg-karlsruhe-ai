@@ -14,5 +14,5 @@
 
 - what kind of stories do we want to tell?
 - which frameworks work well for such a short format?
-- how can we make the machine create interesting visual concept that are both beyond the obvious and can also be processed into machein code?
+- how can we make the machine create interesting visual concept that are both beyond the obvious and can also be processed into machine code?
 - how can we translate these concepts into readable code?
