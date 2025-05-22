@@ -1,3 +1,18 @@
+## Test set
+
+Dawn
+Growth
+Time
+Conversation
+Isolation
+Strength
+Storm
+Morning
+House
+Small
+
+## Other words for testing
+
 Joy
 Melancholy
 Rage
